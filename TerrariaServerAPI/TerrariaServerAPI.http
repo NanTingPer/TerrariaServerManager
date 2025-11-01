@@ -1,0 +1,6 @@
+@TerrariaServerAPI_HostAddress = http://localhost:5030
+
+GET {{TerrariaServerAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
